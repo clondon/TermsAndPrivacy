@@ -1,3 +1,3 @@
-module github.com/hugoinaction/TermsAndPrivacy
+module github.com/clondon/TermsAndPrivacy
 
 go 1.13
