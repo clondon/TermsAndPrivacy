@@ -1,6 +1,6 @@
 ---
 toc: true
-title: Terms and Conditions
+title: Privacy Policy
 ---
 
 
