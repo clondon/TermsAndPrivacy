@@ -3,7 +3,7 @@ toc: true
 title: Privacy Policy
 ---
 
-### {{< param "TermsAndPrivacy.company_name" >}}&trade;
+### {{< param "TermsAndPrivacy.company_name" >}}
 #### Privacy Policy
 
 <!--more-->
@@ -150,5 +150,5 @@ If you have questions or comments about this policy, you may contact our Data Pr
 {{< param "TermsAndPrivacy.company_name" >}}
 Data Protection Officer
 <hr>
-c5a59508eee55c9c4a2c1247a215305a
-![/](Home)
+
+[/](Home)
