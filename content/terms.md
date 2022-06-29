@@ -46,3 +46,6 @@ The materials appearing on {{< param "TermsAndPrivacy.company_name" >}} website 
 ## Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of fictional universe and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+
+[Home](/)
