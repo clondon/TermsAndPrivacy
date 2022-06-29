@@ -3,7 +3,8 @@ toc: true
 title: Privacy Policy
 ---
 
-### {{< param "TermsAndPrivacy.company_name" >}}
+<h2>{{< param "TermsAndPrivacy.company_name" >}}</h2>
+
 #### Privacy Policy
 
 <!--more-->
