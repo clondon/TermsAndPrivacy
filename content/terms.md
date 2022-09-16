@@ -4,7 +4,7 @@ title: Terms of Use
 ---
 
 
-### {{< param "TermsAndPrivacy.company_name" >}}&trade;
+{{< param "TermsAndPrivacy.company_name" >}} &trade;
 #### Terms of Use
 
 
