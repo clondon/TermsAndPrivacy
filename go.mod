@@ -1,3 +1,3 @@
 module github.com/clondon/TermsAndPrivacy
 
-go 1.101
+go 1.18
