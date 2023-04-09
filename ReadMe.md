@@ -20,3 +20,19 @@ params:
 ```
 
 
+Template
+--------  
+```
+Exmaple
+   <div class="title">
+      <h2>
+        {{ with .Param "TermsAndPrivacy.company_name" }}
+          {{.}}&trade;
+        {{ end }}
+        {{with .Title}}
+        {{. }}
+      {{end}}
+        
+  </h2>
+  </div>
+```
