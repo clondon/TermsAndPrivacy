@@ -1,9 +1,9 @@
 ---
 toc: true
 title: Terms of Use
-summary: Terms and conditons for {{< param "TermsAndPrivacy.company_name" >}}
+summary: Terms and conditons for 
 lastmod: 2023-04-10
-description: The {{< param "TermsAndPrivacy.company_name" >}} &trade Terms of Use Statement
+description: Terms of Use Statement for
 ---
 
 ## Terms
