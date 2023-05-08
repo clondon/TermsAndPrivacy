@@ -17,6 +17,7 @@ params:
     website: <Website URL>
     contact_dpo_email: <Data Protection Officer Email>
     contact_dpo_phone: <Data Protection Officer Phone number>
+    location_address: <Your company address>
 ```
 
 
