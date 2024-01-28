@@ -74,7 +74,7 @@ Please contact us if you have any questions about these Terms.
 
 Address: {{< param "TermsAndPrivacy.company_address" >}}
 
-Phone: {{< param "TermsAndPrivacy.company_telephone" >}}
+Phone: {{< param "TermsAndPrivacy.company_phone" >}}
 
 Email: {{< param "TermsAndPrivacy.company_email" >}}
 
