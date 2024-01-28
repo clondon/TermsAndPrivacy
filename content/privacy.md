@@ -144,7 +144,7 @@ We may update this privacy notice from time to time. The updated version will be
 HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 ----------------------------------------
 
-If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [{{< param "TermsAndPrivacy.company_dpo_email" >}}](mailto:{{< param "TermsAndPrivacy.company_dpo_email" >}}), by phone at [{{< param "TermsAndPrivacy.company_dpo_phone" >}}](tel:{{< param "TermsAndPrivacy.company_dpo_phone" >}}), or by post to: {{< param "TermsAndPrivacy.location_address" >}}
+If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [{{< param "TermsAndPrivacy.company_dpo_email" >}}](mailto:{{< param "TermsAndPrivacy.company_dpo_email" >}}), by phone at [{{< param "TermsAndPrivacy.company_dpo_telephone" >}}](tel:{{< param "TermsAndPrivacy.company_dpo_phone" >}}), or by post to: {{< param "TermsAndPrivacy.location_address" >}}
 
 {{< param "TermsAndPrivacy.company_name" >}}
 Data Protection Officer
