@@ -1,7 +1,7 @@
 ---
 toc: true
 title: Terms of Use
-summary: Terms and conditions for the use of services provided by {{ company_name }}
+summary: Terms and conditions for the use of services provided by {{< param "TermsAndPrivacy.company_name" >}}
 
 ---
 
@@ -22,15 +22,15 @@ summary: Terms and conditions for the use of services provided by {{ company_nam
 
 ## Acceptance of Terms {#acceptance-of-terms}
 
-Your access to and use of {{ company_name }} ("the Website") are conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+Your access to and use of {{< param "TermsAndPrivacy.company_name" >}} ("the Website") are conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
 ## Use License {#use-license}
 
-Permission is granted to temporarily download one copy of the materials (information or software) on {{ company_name }}'s website for personal, non-commercial transitory viewing only.
+Permission is granted to temporarily download one copy of the materials (information or software) on {{< param "TermsAndPrivacy.company_name" >}}'s website for personal, non-commercial transitory viewing only.
 
 ## Intellectual Property Rights {#ipr}
 
-All copyrights, trademarks, patents and other intellectual property rights in and on our website and all content and software located on the site shall remain the sole property of {{ company_name }} or its licensors.
+All copyrights, trademarks, patents and other intellectual property rights in and on our website and all content and software located on the site shall remain the sole property of {{< param "TermsAndPrivacy.company_name" >}} or its licensors.
 
 ## User Behaviour {#user-behaviour}
 
@@ -38,15 +38,15 @@ Users are prohibited from using our website or systems to copy, store, host, tra
 
 ## Limitations {#limitations}
 
-In no event shall {{ company_name }} or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on {{ company_name }}'s website.
+In no event shall {{< param "TermsAndPrivacy.company_name" >}} or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on {{< param "TermsAndPrivacy.company_name" >}}'s website.
 
 ## Accuracy of Materials {#accuracy-of-materials}
 
-The materials appearing on {{ company_name }}'s website could include technical, typographical, or photographic errors. {{ company_name }} does not warrant that any of the materials on its website are accurate, complete or current.
+The materials appearing on {{< param "TermsAndPrivacy.company_name" >}}'s website could include technical, typographical, or photographic errors. {{< param "TermsAndPrivacy.company_name" >}} does not warrant that any of the materials on its website are accurate, complete or current.
 
 ## Links {#links}
 
-{{ company_name }} has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site.
+{{< param "TermsAndPrivacy.company_name" >}} has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site.
 
 ## Third-Party Analytics {#third-party-analytics}
 
@@ -54,7 +54,7 @@ We use third-party analytics services (like Google Analytics) to evaluate your u
 
 ## Modifications {#modifications}
 
-{{ company_name }} may revise these Terms at any time without notice. By using this Website you agree to be bound by the then current version of these Terms.
+{{< param "TermsAndPrivacy.company_name" >}} may revise these Terms at any time without notice. By using this Website you agree to be bound by the then current version of these Terms.
 
 ## Governing Law {#governing-law}
 
