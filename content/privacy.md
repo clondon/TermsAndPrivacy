@@ -7,7 +7,7 @@ date: "2023-04-10"
 
 ## Privacy Policy Statment.
 
-Thank you for choosing to be part of our community at *{{< param "TermsAndPrivacy.company_name" >}}&trade;* (*“Company”*, *“we”*, *“us”*, or *“our”*). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at [{{< param "TermsAndPrivacy.contact_email" >}}](mailto:{{< param "TermsAndPrivacy.contact_email" >}}).
+Thank you for choosing to be part of our community at *{{< param "TermsAndPrivacy.company_name" >}}&trade;* (*“Company”*, *“we”*, *“us”*, or *“our”*). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at [{{< param "TermsAndPrivacy.company_email" >}}](mailto:{{< param "TermsAndPrivacy.company_email" >}}).
 
 When you visit our website -- {{<param "TermsAndPrivacy.website" >}}, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we describe our privacy notice. We seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Sites and our services.
 
@@ -105,7 +105,7 @@ DO WE COLLECT INFORMATION FROM MINORS?
 
 ***We do not knowingly collect data from or market to children under 18 years of age.***
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at [{{< param "TermsAndPrivacy.contact_email" >}}].
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at [{{< param "TermsAndPrivacy.company_email" >}}].
 
 WHAT ARE YOUR PRIVACY RIGHTS?
 -----------------------------
@@ -144,7 +144,7 @@ We may update this privacy notice from time to time. The updated version will be
 HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 ----------------------------------------
 
-If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [{{< param "TermsAndPrivacy.contact_dpo_email" >}}](mailto:{{< param "TermsAndPrivacy.contact_dpo_email" >}}), by phone at [{{< param "TermsAndPrivacy.contact_dpo_phone" >}}](tel:{{< param "TermsAndPrivacy.contact_dpo_phone" >}}), or by post to: {{< param "TermsAndPrivacy.location_address" >}}
+If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [{{< param "TermsAndPrivacy.company_dpo_email" >}}](mailto:{{< param "TermsAndPrivacy.ccompnay_dpo_email" >}}), by phone at [{{< param "TermsAndPrivacy.company_dpo_phone" >}}](tel:{{< param "TermsAndPrivacy.company_dpo_phone" >}}), or by post to: {{< param "TermsAndPrivacy.location_address" >}}
 
 {{< param "TermsAndPrivacy.company_name" >}}
 Data Protection Officer
