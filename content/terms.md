@@ -66,16 +66,16 @@ For details about how we deal with your personal data and how we meet our obliga
 
 ## Cookie Policy {#cookie-policy}
 
-This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping baskets, and provide anonymised tracking data to third party applications like Google Analytics.
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping baskets, and provide anonymised tracking data to third-party applications like Google Analytics.
 
 ## Contact Us {#contact-us}
 
 Please contact us if you have any questions about these Terms.
 
-Address: {{ company_address }}
+Address: {{< param "TermsAndPrivacy.company_address" >}}
 
-Phone: {{ company_telephone }}
+Phone: {{< param "TermsAndPrivacy.company_telephone" >}}
 
-Email: {{ company_email }}
+Email: {{< param "TermsAndPrivacy.company_email" >}}
 
 #### __[Home](/)__
