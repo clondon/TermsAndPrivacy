@@ -1,8 +1,10 @@
-# Parameters for config params.toml
+# Parameters for config params. TOML file
 [TermsAndPrivacy]
     company_name = "Your company"
     company_email = "contact email for your company"
     website = "Website URL"
-    contact_dpo_email = "Data Protection Officer Email"
-    contact_dpo_phone = "Data Protection Officer Phone number"
+    company_dpo_email = "Data Protection Officer Email"
+    company_dpo_telephone = "Data Protection Officer Phone number"
     location_address = "Your company address"
+    company_address = "Your company address"
+    company_telephone = "Your company telephone"
