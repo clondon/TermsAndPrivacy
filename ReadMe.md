@@ -8,7 +8,7 @@ Usage
 ```yaml
 # In your config.yaml
 module:
-  imports:
+  Imports:
     - path: github.com/hugoinaction/TermsAndPrivacy
 params:
   TermsAndPrivacy:
@@ -24,7 +24,7 @@ params:
 Template
 --------  
 ```
-Exmaple
+Example
    <div class="title">
       <h2>
         {{ with .Param "TermsAndPrivacy.company_name" }}
